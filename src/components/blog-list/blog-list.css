@@ -1,0 +1,20 @@
+
+.decorate{
+    border-left: 3px solid #ABB9CD;
+    padding-left: 5px;
+}
+.b-top-light{
+    border-top: 1px solid pink;
+}
+input{
+    border: none;
+    width: 90%;
+    padding: 3px;
+    background-color: #F1F3F6;
+    margin-bottom: 5px;
+    transition: 0.2s;
+}
+input:focus{
+    background-color: white;
+    color: #000;
+}
